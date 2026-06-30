@@ -34,7 +34,12 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+A protocol is a predefined set of rules that enables devices to communicate correctly over a network.
+Communication is successful only when both sender and receiver follow the same protocol.
+Protocols define how data is formatted, transmitted, received, acknowledged, and interpreted.
+Different protocols are designed for different purposes, such as web browsing, email, file transfer, or name resolution.
+Modern networking relies on multiple protocols working together (e.g., DNS → TCP → HTTPS when opening a website).
+Protocols ensure communication is reliable, secure, standardized, and interoperable across devices from different manufacturers.
 
 ---
 
