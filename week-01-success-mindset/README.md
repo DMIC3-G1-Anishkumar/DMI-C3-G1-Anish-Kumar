@@ -224,7 +224,7 @@ Choose books that improve:
 ## Book List
 
 1. **Atomic Habits** — James Clear
-2. **The 7 Habits of Highly Effective People** — Stephen R. Covey
+2. **The 5 AM Club** — Robin Sharma
 3. **How to Win Friends and Influence People** — Dale Carnegie
 4. **Deep Work** — Cal Newport
 5. **The Psychology of Money** — Morgan Housel
