@@ -291,11 +291,11 @@ Examples:
 
 ### Did You Do It?
 
-**Yes / No**
+**Yes**
 
 Answer:
 
-Add your answer here...
+I wrote down my pending tasks, personal responsibilities, learning goals, work priorities, bills, worries, ideas, and career plans in one place.
 
 ---
 
@@ -313,7 +313,10 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday–Thursday: 60 minutes of focused learning or project work
+Friday: Review weekly progress and complete pending tasks
+Saturday: Attend DMI session and work on assignments
+Sunday: Weekly review, planning, and preparation for the next week
 
 ---
 
@@ -321,11 +324,11 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+I will do DMI work from Monday to Thursday, 9:00 PM to 10:00 PM, and on Saturday after the DMI session.
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+I will complete 5 focused sessions per week.
 
 ---
 
@@ -339,23 +342,26 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
-
+Keep phone away during focus blocks
+Avoid social media during study time
+Use only required tabs while working
+Sit in a quiet place during deep work
+Complete one task before starting another
 ---
 
 # Reflection – Week 1
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that I have many goals, but without a clear system, they remain scattered in my mind.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is starting many things with excitement but not finishing them consistently.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+Every day from 9:00 PM to 10:00 PM, I will work on one focused learning task without distractions.
 
 ### LinkedIn Post
 
