@@ -13,11 +13,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Anish Kumar |
+| **LinkedIn** | [anish-kumar](https://www.linkedin.com/in/anish-kumar-3b348416b) |
+| **Location** | Bangalore, India |
+| **Background** | DevOps | Agentic AI |
+| **Goal** | Learn Devops with agentic AI |
 
 ---
 
@@ -63,14 +63,13 @@ This is not a course. It is an internship-style program — real deployments, re
 [![Week 00](./badges/week-00.svg)](./week-00-internet-and-networking/)[![Week 01](./badges/week-01.svg)](./week-01-success-mindset/)[![Week 02](./badges/week-02.svg)](./week-02-agentic-ai/)[![Week 03](./badges/week-03.svg)](./week-03-linux-for-devops/)[![Week 04](./badges/week-04.svg)](./week-04-bash-scripting/)[![Week 05](./badges/week-05.svg)](./week-05-github/)[![Week 06](./badges/week-06.svg)](./week-06-devops-lifecycle/)[![Week 07](./badges/week-07.svg)](./week-07-aws-cloud/)[![Week 08](./badges/week-08.svg)](./week-08-azure-cloud/)[![Week 09](./badges/week-09.svg)](./week-09-terraform/)[![Week 10](./badges/week-10.svg)](./week-10-ansible/)[![Week 11](./badges/week-11.svg)](./week-11-azure-devops/)[![Week 12](./badges/week-12.svg)](./week-12-docker/)[![Week 13](./badges/week-13.svg)](./week-13-kubernetes/)[![Week 14](./badges/week-14.svg)](./week-14-final-project/)
 
 ---
+**Your stack:**
 
-**Your stack (uncomment each badge as you earn it):**
+Week 00 → Internet & Networking Basics
+[![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)
 
-<!-- Week 00 → Internet & Networking Basics -->
-<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
-
-<!-- Week 01 → Success Mindset -->
-<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
+Week 01 → Success Mindset
+[![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
 <!-- Week 02 → Agentic AI with Claude Code -->
 <!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
@@ -111,7 +110,6 @@ This is not a course. It is an internship-style program — real deployments, re
 <!-- Week 14 → Final Project / Capstone -->
 <!-- [![Week 14 – Capstone](./badges/week-14.svg)](./week-14-final-project/) -->
 
-*Complete a week → uncomment the badge → watch your stack grow.*
 
 ---
 
@@ -132,9 +130,9 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | — | — |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | — | — |
+| 02 | Agentic AI with Claude Code | 🔄 In Progress | ⏳ Pending | — | — |
 | 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
 | 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
