@@ -4,7 +4,7 @@ Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
 
 ---
 
-## Purpose
+## Purpos
 
 In this assignment, you will create and verify an AWS Free Tier account as part of onboarding EpicReads — an online bookstore moving to the cloud. You will demonstrate an understanding of AWS fundamentals, Free Tier services, and account setup by answering conceptual questions and capturing proof of a working AWS Console login.
 
