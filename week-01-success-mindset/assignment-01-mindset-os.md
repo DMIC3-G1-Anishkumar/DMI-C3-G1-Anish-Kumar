@@ -165,7 +165,7 @@ From a determined IT Manager at Medicodio to a visionary leader driving the futu
 
 Paste your link here:
 
-[https://mydakshi.wordpress.com/2026/07/22/hello-world/)]
+[(https://mydakshi.wordpress.com/2026/07/22/anish-2-0/)]
 
 ---
 
@@ -367,14 +367,14 @@ Every day from 9:00 PM to 10:00 PM, I will work on one focused learning task wit
 
 Paste your LinkedIn post link here: https://www.linkedin.com/posts/anish-kumar-3b348416b_dmi-devops-micro-internship-with-agentic-share-7485354847274364929-Wm-l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACh4hTcBQx3KusnxEIkEU2yHyjSTz7egyBU
 
-https://mydakshi.wordpress.com/2026/07/22/hello-world/
+[(https://mydakshi.wordpress.com/2026/07/22/anish-2-0/)]
 
 ---
 
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **[ADD LINK HERE](https://www.linkedin.com/posts/anish-kumar-3b348416b_dmi-devops-micro-internship-with-agentic-share-7485354847274364929-Wm-l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACh4hTcBQx3KusnxEIkEU2yHyjSTz7egyBU)**  
-- Blog / Medium : https://mydakshi.wordpress.com/2026/07/22/hello-world/
+- Blog / Medium : [(https://mydakshi.wordpress.com/2026/07/22/anish-2-0/)]
 ---
 
 ## 📌 About DMI & CloudAdvisory
