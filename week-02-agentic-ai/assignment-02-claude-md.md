@@ -20,7 +20,8 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
-Add your screenshot here.
+<img width="1911" height="1082" alt="image" src="https://github.com/user-attachments/assets/32a5835a-ea32-46db-9277-80ccf15120f1" />
+
 
 ---
 
@@ -34,7 +35,8 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
-Add your screenshot here.
+<img width="1917" height="612" alt="image" src="https://github.com/user-attachments/assets/93034b23-4be8-4284-bd01-40fee2f98dd0" />
+
 
 ---
 
@@ -48,7 +50,8 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-Add your screenshot here.
+<img width="1902" height="1096" alt="image" src="https://github.com/user-attachments/assets/86669d97-4a16-441d-8870-2397544481e8" />
+
 
 ---
 
