@@ -220,7 +220,7 @@ Add the following credit note at the end of your post:
 
 ## LinkedIn Post URL
 
-[Paste your LinkedIn post URL here:](https://www.linkedin.com/posts/anish-kumar-3b348416b_dmi-devops-micro-internship-with-agentic-share-7485354847274364929-Wm-l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACh4hTcBQx3KusnxEIkEU2yHyjSTz7egyBU)
+[(https://www.linkedin.com/posts/anish-kumar-3b348416b_dmi-devops-micro-internship-with-agentic-share-7485354847274364929-Wm-l/?utm_source=share&utm_medium=member_desktop&rcm=ACoAACh4hTcBQx3KusnxEIkEU2yHyjSTz7egyBU)]
 
 ```text
 Add your URL here...
