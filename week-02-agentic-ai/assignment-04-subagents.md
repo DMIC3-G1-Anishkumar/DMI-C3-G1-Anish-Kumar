@@ -20,7 +20,8 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
+<img width="1912" height="1132" alt="image" src="https://github.com/user-attachments/assets/a378e5cc-2b29-4002-8658-51d631146dfc" />
+
 
 ---
 
@@ -33,20 +34,21 @@ Analyze the configuration differences between the three agents and demonstrate u
 ### Written Answers
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
-
-Add your answer here...
+Answer:
+The cost optimizer performs lightweight analysis tasks such as checking Terraform resources and identifying possible cost-saving improvements. Since it does not require deep reasoning like security analysis, the faster and more cost-efficient Haiku model is suitable for this task.
 
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
-
+Answer:
+The security auditor is designed only to inspect and analyze Terraform configurations. Removing Write permission prevents accidental modification of infrastructure files and follows the principle of least privilege.
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+Answer:
+The Terraform writer needs flexibility because it performs code generation and modification tasks. Using inherit allows it to use the default model configuration from Claude Code instead of forcing a fixed model.
 
 ---
 
@@ -54,13 +56,15 @@ Add your answer here...
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+<img width="1917" height="977" alt="image" src="https://github.com/user-attachments/assets/0546565a-f0a7-42b1-9ce1-e3e7951242b1" />
+
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+<img width="1917" height="1140" alt="image" src="https://github.com/user-attachments/assets/f202ee54-3d04-49c5-bb16-723428f3c4f8" />
+
 
 ---
 
