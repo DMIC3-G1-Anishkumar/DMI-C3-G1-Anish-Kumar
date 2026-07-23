@@ -20,7 +20,8 @@ Generate a GitHub Personal Access Token (PAT) that will be used for MCP authenti
 
 #### Screenshot 1 — GitHub token creation page showing the selected scopes (`repo`, `read:user`) — token value must NOT be visible
 
-Add your screenshot here.
+<img width="1910" height="651" alt="image" src="https://github.com/user-attachments/assets/5692602a-1452-4d36-b93c-12ef78b96671" />
+
 
 ---
 
@@ -34,7 +35,8 @@ Create and configure the `.mcp.json` file to define the GitHub MCP server.
 
 #### Screenshot 2 — `.mcp.json` open in VS Code showing the full configuration
 
-Add your screenshot here.
+<img width="1917" height="752" alt="image" src="https://github.com/user-attachments/assets/74d509e1-60db-4f4a-ae7a-0aed700a78ea" />
+
 
 ---
 
@@ -48,7 +50,8 @@ Store your GitHub token securely in `.claude/settings.local.json` and ensure it 
 
 #### Screenshot 3 — `settings.local.json` open in VS Code showing the `env` section — **blur or cover the actual GitHub token value**
 
-Add your screenshot here.
+<img width="1917" height="745" alt="image" src="https://github.com/user-attachments/assets/cc36faa7-0015-482e-a208-96c3f7f47586" />
+
 
 ---
 
@@ -62,7 +65,8 @@ Confirm that the GitHub MCP server is successfully connected inside Claude Code.
 
 #### Screenshot 4 — `/mcp` output showing `github: connected`
 
-Add your screenshot here.
+<img width="1917" height="1135" alt="image" src="https://github.com/user-attachments/assets/b9159e1d-a942-41de-957c-35234da860a5" />
+
 
 ---
 
@@ -76,7 +80,8 @@ Verify MCP functionality by retrieving real-time data from your GitHub account u
 
 #### Screenshot 5 — Claude's response showing the GitHub MCP tool call and the retrieved README.md content.
 
-Add your screenshot here.
+<img width="1917" height="675" alt="image" src="https://github.com/user-attachments/assets/32cda16c-d624-4b97-93d3-e62e3dc428b8" />
+
 
 ---
 
@@ -94,7 +99,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+https://github.com/DMIC3-G1-Anishkumar/Ultimate-Agentic-DevOps-with-Claude-Code.git
 
 ---
 
@@ -102,21 +107,21 @@ Paste your forked repository URL here:
 
 Confirm below:
 
-- [ ] `settings.local.json` is added to `.gitignore`
-- [ ] GitHub token is NOT exposed in repository or screenshots
+- [Yes] `settings.local.json` is added to `.gitignore`
+- [Yes] GitHub token is NOT exposed in repository or screenshots
 
 ---
 
 # Completion Checklist
 
-- [ ] GitHub PAT created with correct scopes (`repo`, `read:user`)
-- [ ] `.mcp.json` created at project root
-- [ ] `.claude/settings.local.json` contains token (hidden in screenshot)
-- [ ] `.claude/settings.local.json` is NOT committed
-- [ ] `/mcp` shows GitHub connection as active
-- [ ] Live GitHub query returns real repository data
-- [ ] All required screenshots added
-- [ ] GitHub repository URL included
+- [Yes] GitHub PAT created with correct scopes (`repo`, `read:user`)
+- [Yes] `.mcp.json` created at project root
+- [Yes] `.claude/settings.local.json` contains token (hidden in screenshot)
+- [Yes] `.claude/settings.local.json` is NOT committed
+- [Yes] `/mcp` shows GitHub connection as active
+- [Yes] Live GitHub query returns real repository data
+- [Yes] All required screenshots added
+- [Yes] GitHub repository URL included
 
 ---
 
